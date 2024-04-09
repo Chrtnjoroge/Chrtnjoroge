@@ -2,8 +2,6 @@
 <h3 align="center">A passionate software developer.</h3>
 <img align="right" alt="coding" width="370" src="https://cdn.dribbble.com/users/1063314/screenshots/3020974/tdsocial_dribbble.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chrtnjoroge&label=Profile%20views&color=0e75b6&style=flat" alt="chrtnjoroge" /> </p>
-
 
 
 - 🔭 I’m currently working on **my portfolio**
