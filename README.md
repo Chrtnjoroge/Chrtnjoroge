@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Charity Njoroge</h1>
 <h3 align="center">A passionate software developer.</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1063314/screenshots/3020974/tdsocial_dribbble.gif">
+<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1063314/screenshots/3020974/tdsocial_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrtnjoroge&label=Profile%20views&color=0e75b6&style=flat" alt="chrtnjoroge" /> </p>
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/charity wangui njoroge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charity wangui njoroge" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Charity Wangui Njoroge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charity wangui njoroge" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
