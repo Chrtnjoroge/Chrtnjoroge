@@ -1,21 +1,25 @@
-👋 Hello there! Welcome to my GitHub profile. I'm a cybersecurity enthusiast with a keen interest in securing digital systems and protecting sensitive information. Let me share a little about myself and sprinkle in a fun fact about my baking adventures. 🛡️🔒👨‍💻🧁
+<h1 align="center">Hi 👋, I'm Charity Njoroge</h1>
+<h3 align="center">A passionate software developer from Kenya.</h3>
+<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1063314/screenshots/3020974/tdsocial_dribbble.gif">
 
-## About Me
-🔐 I'm a dedicated to join cyber security profession with a deep understanding of security principles and best practices. My interest in the field started several years ago, and I've been continuously expanding my knowledge to stay ahead of evolving threats.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chrtnjoroge&label=Profile%20views&color=0e75b6&style=flat" alt="chrtnjoroge" /> </p>
 
-## Expertise
-🔒 My areas of interest range from:
-- **Network Security**: Implementing robust security measures to protect networks from unauthorized access and intrusions.
-- **Application Security**: Assessing and strengthening the security of software applications to prevent vulnerabilities.
-- **Incident Response**: Developing incident response plans and coordinating efforts to mitigate and recover from security incidents.
-- **Security Audits**: Conducting thorough assessments and audits to identify security gaps and recommend remediation strategies.
-- **Secure Coding**: Promoting secure coding practices to build resilient and secure software applications.
+- 🌱 I’m currently learning **Javascript.**
 
-## Fun Fact
-🧁 Here's a fun fact about me: When I'm not diving into cybersecurity challenges, I enjoy baking delicious treats. There's something magical about the process of combining ingredients and seeing them transform into mouthwatering creations. From elaborate cakes to delicate pastries, baking allows me to unleash my creativity and indulge in the sweet side of life. 🍰
+- 💬 Ask me about **python and Linux.**
 
-Feel free to explore my repositories and projects. If you have any questions, ideas, or just want to connect, feel free to reach out. Let's work together to make the digital world a safer place! 👨‍💻🛡️🔒
+- 📫 How to reach me **charitywanguinjoroge2@gmail.com**
 
-_"In the realm of cybersecurity, knowledge and vigilance are our strongest shields."_ 🛡️🔒
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/charity%20wangui%20njoroge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charity wangui njoroge" height="30" width="40" /></a>
+</p>
 
-StaySafe✨
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrtnjoroge&show_icons=true&locale=en&layout=compact" alt="chrtnjoroge" /></p>
+
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrtnjoroge&show_icons=true&locale=en" alt="chrtnjoroge" /></p>-->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrtnjoroge&" alt="chrtnjoroge" /></p>
