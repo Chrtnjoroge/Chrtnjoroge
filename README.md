@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charity Njoroge</h1>
-<h3 align="center">A passionate software developer.</h3>
+<h3 align="center">A passionate Frontend developer.</h3>
 <img align="right" alt="coding" width="370" src="https://cdn.dribbble.com/users/1063314/screenshots/3020974/tdsocial_dribbble.gif">
 
 
