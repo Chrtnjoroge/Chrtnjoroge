@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on **my portfolio**
+
 
 - 🌱 I’m currently **a computer science student.**
 
